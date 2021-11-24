@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-elasticsearch" />
+        <module name="spring-boot-dockerization" />
+        <module name="RedisCache" />
+        <module name="sping-jpa-pagination" />
+        <module name="SpringPagination" />
+        <module name="spring-boot-kafka" />
+        <module name="spring-datajpa-postgresql" />
+        <module name="spring-boot-rest-template" />
+        <module name="kafka-example" />
+        <module name="spring-boot-webclient-feign" />
+        <module name="spring-boot-events" />
+        <module name="spring-apache-kafka-example-basic" />
+        <module name="spring-boot-rabbitmq" />
+        <module name="spring-boot-pagination" />
+        <module name="apache-kafka" />
+        <module name="spring-boot-webclient" />
+        <module name="spring-redis-cache" />
+        <module name="Spring-JPA-CF" />
+        <module name="spring-boot-gridfs-fileupload" />
+        <module name="spring-mongo-rest-api" />
+        <module name="spring-boot-websocket" />
+        <module name="spring-boot-api-doc" />
+        <module name="spring-boot-graphql" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="apache-kafka" target="11" />
+      <module name="kafka-example" target="11" />
+      <module name="RedisCache" target="11" />
+      <module name="sping-jpa-pagination" target="11" />
+      <module name="spring-apache-kafka-example-basic" target="11" />
+      <module name="spring-boot-api-doc" target="11" />
+      <module name="spring-boot-dockerization" target="1.8" />
+      <module name="spring-boot-events" target="11" />
+      <module name="spring-boot-graphql" target="11" />
+      <module name="spring-boot-gridfs-fileupload" target="11" />
+      <module name="spring-boot-kafka" target="11" />
+      <module name="spring-boot-pagination" target="11" />
+      <module name="spring-boot-rabbitmq" target="11" />
+      <module name="spring-boot-rest-template" target="11" />
+      <module name="spring-boot-webclient" target="11" />
+      <module name="spring-boot-webclient-feign" target="11" />
+      <module name="spring-boot-websocket" target="11" />
+      <module name="spring-datajpa-postgresql" target="11" />
+      <module name="spring-elasticsearch" target="11" />
+      <module name="Spring-JPA-CF" target="11" />
+      <module name="spring-kafka-example" target="11" />
+      <module name="spring-mongo-rest-api" target="11" />
+      <module name="spring-redis-cache" target="11" />
+      <module name="SpringPagination" target="11" />
+      <module name="trainingSpringHK" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="RedisCache" options="-parameters" />
+      <module name="Spring-JPA-CF" options="-parameters" />
+      <module name="SpringPagination" options="-parameters" />
+      <module name="apache-kafka" options="-parameters" />
+      <module name="kafka-example" options="-parameters" />
+      <module name="sping-jpa-pagination" options="-parameters" />
+      <module name="spring-apache-kafka-example-basic" options="-parameters" />
+      <module name="spring-boot-api-doc" options="-parameters" />
+      <module name="spring-boot-dockerization" options="-parameters" />
+      <module name="spring-boot-events" options="-parameters" />
+      <module name="spring-boot-graphql" options="-parameters" />
+      <module name="spring-boot-gridfs-fileupload" options="-parameters" />
+      <module name="spring-boot-kafka" options="-parameters" />
+      <module name="spring-boot-pagination" options="-parameters" />
+      <module name="spring-boot-rabbitmq" options="-parameters" />
+      <module name="spring-boot-rest-template" options="-parameters" />
+      <module name="spring-boot-webclient" options="-parameters" />
+      <module name="spring-boot-webclient-feign" options="-parameters" />
+      <module name="spring-boot-websocket" options="-parameters" />
+      <module name="spring-datajpa-postgresql" options="-parameters" />
+      <module name="spring-elasticsearch" options="-parameters" />
+      <module name="spring-kafka-example" options="-parameters" />
+      <module name="spring-mongo-rest-api" options="-parameters" />
+      <module name="spring-redis-cache" options="-parameters" />
+    </option>
+  </component>
+</project>

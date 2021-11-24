@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-mongo-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-datajpa-postgresql/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-api-doc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-dockerization/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-graphql/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-rest-template/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-webclient/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-webclient-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-redis-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/RedisCache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-pagination/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringPagination/pom.xml" />
+        <option value="$PROJECT_DIR$/sping-jpa-pagination/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring JPA-CF/Spring-JPA-CF/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-JPA-CF/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-events/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-gridfs-fileupload/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/apache-kafka/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-example/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

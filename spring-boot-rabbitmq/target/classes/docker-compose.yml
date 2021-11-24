@@ -1,0 +1,7 @@
+version: '3.2'
+services:
+  spboot-rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+    - 25672:5672
+    - 15672:15672

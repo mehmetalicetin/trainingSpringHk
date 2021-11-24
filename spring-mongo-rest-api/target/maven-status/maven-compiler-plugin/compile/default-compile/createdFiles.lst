@@ -1,0 +1,4 @@
+com\cetin\education\spring\mongo\controller\UserApi.class
+com\cetin\education\spring\mongo\repository\UserRepository.class
+com\cetin\education\spring\mongo\entity\User.class
+com\cetin\education\spring\mongo\MongoRestApiDemoApplication.class
